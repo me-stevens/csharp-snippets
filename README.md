@@ -6,10 +6,12 @@ You need to have Visual Studio installed to run the projects (version 2012 or su
 
 Double click on the "solution" file (`*.sln`) to open the snippets in VS, then hit the green **Play** button to run them.
 
-## License
-
-MIT License
-
 ## Dedicated site
 
 http://csharpsnippets.tk
+
+## License
+
+[![License](https://img.shields.io/badge/gnu-license-green.svg?style=flat)](https://opensource.org/licenses/GPL-2.0)
+GNU License
+
